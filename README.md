@@ -35,4 +35,4 @@ Welcome to my GitHub profile! I'm passionate about coding, technology, and learn
   </a>
 </p>
 
-Feel free to check out my repositories and connect with me!
+<p align="center"> Feel free to check out my repositories and connect with me!</p>
