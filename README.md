@@ -22,8 +22,23 @@ Welcome to my GitHub profile! I'm passionate about coding, technology, and learn
 - Advanced Web Development Techniques
 
 ## 📫 How to reach me:
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/msijewelsaif/)
-- [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/msijewel.saif)
-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/msijewel.saif/)
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/msijewelsaif/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.facebook.com/msijewel.saif">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.instagram.com/msijewel.saif/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
 
 Feel free to check out my repositories and connect with me!
